@@ -1019,3 +1019,5 @@ body {
 .not-loaded * {
   animation-play-state: paused !important;
 }
+  animation-play-state: paused !important;
+}
